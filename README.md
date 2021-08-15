@@ -1,4 +1,4 @@
-Hello hello! 👋 
+# Hello hello! 👋 
 
 My name is Paulian Le and I am a first generation student majoring in Computer Science at the University of California, Riverside. 
 
@@ -11,3 +11,5 @@ My name is Paulian Le and I am a first generation student majoring in Computer S
 
 
 Looking forward to connecting / collaborating! 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/apipaulian7Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
