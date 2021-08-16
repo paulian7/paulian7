@@ -1,4 +1,4 @@
-## Hello hello! 👋 
+## 👋 Hello hello! 
 
 My name is **Paulian** *(Paul-Lee-Ann)* and I am a first generation student majoring in **Computer Science at the University of California, Riverside**. 
 
@@ -12,6 +12,6 @@ My name is **Paulian** *(Paul-Lee-Ann)* and I am a first generation student majo
 Looking forward to connecting / collaborating! 
 
 
-## GitHub Stats 📈
+## 📈 GitHub Stats 
 
 ![Paulian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulian7&theme=gruvbox&show_icons=true&count_private=true)
