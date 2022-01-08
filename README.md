@@ -3,8 +3,8 @@
 My name is **Paulian** *(Paul-Lee-Ann)* and I am a first generation student majoring in **Computer Science at the University of California, Riverside**. 
 
 - 💭  I have dreams of one day combining my love for tech and wildlife. But above all, I hope to one day inspire young girls and individuals from underrepresented communities to pursue their very own passions in the tech industry as well. 
-- 💡  As to what I am interested in, I love web development and currently exploring the world of robotics and UI/UX design.
-- 🌱  I am currently improving my skills in C++, JavaScript, Java, HTML, CSS, Git/GitHub. On the other hand, I am learning React.
+- 💡  As to what I am currently interested in, I love web development and I am exploring the world of robotics and UI/UX design.
+- 🌱  I am at the moment improving my skills in C++, JavaScript, Java, HTML, CSS, Git/GitHub. On the other hand, I am learning React.
 
 👩🏻‍💻 Feel free to reach out to me in the below platforms: 
 - 👥 LinkedIn: https://www.linkedin.com/in/paulianle7/
