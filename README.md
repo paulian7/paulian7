@@ -7,7 +7,7 @@ My name is **Paulian** *(Paul-Lee-Ann)* and I am a first generation student majo
 - 🌱  I am at the moment improving my skills in C/C++, JavaScript, Java, HTML, CSS, Python, Git/GitHub. On the other hand, I am learning React.
 
 👩🏻‍💻 Feel free to reach out to me in the below platforms: 
-- 👥 LinkedIn: https://www.linkedin.com/in/paulianle7/
+- 👥 LinkedIn: https://www.linkedin.com/in/paulianle/
 
 Looking forward to connecting / collaborating! 
 
