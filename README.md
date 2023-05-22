@@ -1,10 +1,10 @@
-<img src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif"/>
-
 ## 👋 Hello hello! 
 
 My name is Paulian (Paul-Lee-Anne), and I am currently a first generation student majoring in Computer Science at the University of California, Riverside. 
 
 ## 💭 Dreams and aspirations...
+<img align='right' src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif" width="230" />
+
 - I am currently chasing my dreams of combining my love for tech and the entertainment industry. My biggest dream would be to work for Pixar.
   
 - But above all, I hope to one day inspire young girls and individuals from underrepresented communities to pursue their very own passions in the tech industry as well. 
