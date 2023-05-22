@@ -27,5 +27,6 @@ My name is Paulian (Paul-Lee-Anne), and I am currently a first generation studen
 
 ## 👩🏻‍💻 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulianle/)
+![ProfileViews](https://komarev.com/ghpvc/?username=paulian7&style=for-the-badge)
 
 🫶 Looking forward to connecting / collaborating!
