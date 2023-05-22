@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif" width="500" height="250" style="text-center"/>
+<img src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif"/>
 
 ## 👋 Hello hello! 
 
@@ -15,7 +15,7 @@ My name is Paulian (Paul-Lee-Anne), and I am currently a first generation studen
 - My favorite film currently is "La La Land". 🎵
   
 ## 📈 My GitHub stats...
-![Paulian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulian7&theme=merko&show_icons=true&count_private=true)
+![Paulian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulian7&theme=gruvbox&show_icons=true&count_private=true)
 <br>
 
   
