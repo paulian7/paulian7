@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif" width="500" height="250" style="text-center"/>
+
 ## 👋 Hello hello! 
 
 My name is Paulian (Paul-Lee-Anne), and I am currently a first generation student majoring in Computer Science at the University of California, Riverside. 
