@@ -1,17 +1,29 @@
 ## 👋 Hello hello! 
 
-My name is **Paulian** *(Paul-Lee-Ann)* and I am a first generation student majoring in **Computer Science at the University of California, Riverside**. 
+My name is Paulian (Paul-Lee-Anne), and I am currently a first generation student majoring in Computer Science at the University of California, Riverside. 
 
-- 💭  I have dreams of one day combining my love for tech and all things revolving the entertainment industry. But above all, I hope to one day inspire young girls and individuals from underrepresented communities to pursue their very own passions in the tech industry as well. 
-- 💡  As to what I am currently interested in, I love web development and I am exploring the world of UI/UX design.
-- 🌱  I am at the moment improving my skills in C/C++, JavaScript, Java, HTML, CSS, Python, Git/GitHub. On the other hand, I am learning React.
-
-👩🏻‍💻 Feel free to reach out to me in the below platforms: 
-- 👥 LinkedIn: https://www.linkedin.com/in/paulianle/
-
-Looking forward to connecting / collaborating! 
-
-
-## 📈 GitHub Stats 
-
+## 💭 Dreams and aspirations...
+- I am currently chasing my dreams of combining my love for tech and the entertainment industry. My biggest dream would be to work for Pixar.
+  
+- But above all, I hope to one day inspire young girls and individuals from underrepresented communities to pursue their very own passions in the tech industry as well. 
+  
+## 🎞️ Who am I outside of tech...
+- I love bouldering, skateboarding, visiting national parks, and watching films/shows.
+  
+- My favorite film currently is "La La Land". 🎵
+  
+## 📈 My GitHub stats...
 ![Paulian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulian7&theme=gruvbox&show_icons=true&count_private=true)
+<br>
+
+  
+## 🏗️ Tools & technologies I'm currently working with...
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,nextjs,react,tailwind,ts)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=express,mongodb,mysql)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vim,vscode)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=arduino&perline=4)](https://skillicons.dev)<br>
+
+## 👩🏻‍💻 Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulianle/)
+
+🫶 Looking forward to connecting / collaborating!
