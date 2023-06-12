@@ -15,9 +15,6 @@ My name is Paulian (Paul-Lee-Anne), and I am currently a first generation studen
 - My favorite film currently is "La La Land". 🎵
   
 ## 📈 My GitHub stats...
-![Paulian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulian7&theme=gruvbox&show_icons=true&count_private=true)
-
-
 ![Paulian's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=paulian7&theme=gruvbox)
 
   
