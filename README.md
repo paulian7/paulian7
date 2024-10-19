@@ -1,18 +1,16 @@
 ## 👋 Hello hello! 
 
-My name is Paulian (Paul-Lee-Anne), and I am currently a first generation student majoring in Computer Science at the University of California, Riverside. 
+My name is Paulian (Paul-Lee-Anne), and I am a first generation Computer Science New Grad from the University of California, Riverside. I am currently interested in opportunities related to software engineering. I do have a very keen interest in front-end engineering though! 
 
 ## 💭 Dreams and aspirations...
 <img align='right' src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif" width="230" />
 
-- I am currently chasing my dreams of combining my love for tech and the entertainment industry. My biggest dream would be to work for Pixar.
-  
-- But above all, I hope to one day inspire young girls and individuals from underrepresented communities to pursue their very own passions in the tech industry as well. 
+- I am currently chasing my dreams of combining my love for tech and entertainment industry. I would love to work in a job where I can make an impact on a large group of individuals. 
   
 ## 🎞️ Who am I outside of tech...
-- I love bouldering, skateboarding, visiting national parks, and watching films/shows.
+- I am currently trying my hand gouache painting - so, if you have any tips, please let me know! My other hobbies include watching films, cafe hopping, practicing the guitar, journaling, and occassionally bouldering.
   
-- My favorite film currently is "La La Land". 🎵
+- My favorite film of all time has to be "La La Land". 🎵
   
 ## 📈 My GitHub stats...
 ![Paulian's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=paulian7&theme=gruvbox)
