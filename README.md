@@ -1,21 +1,19 @@
 ## 👋 Hello hello! 
 
-My name is Paulian (Paul-Lee-Anne), and I am a first generation Computer Science New Grad from the University of California, Riverside. I am currently interested in opportunities related to software engineering. I do have a very keen interest in front-end engineering though! 
+My name is Paulian (Paul-Lee-Anne), and I recently earned my Bachelor's Degree in Computer Science from the University of California, Riverside. 
 
-## 💭 Dreams and aspirations...
-<img align='right' src="https://media.giphy.com/media/iFqLTjlvndks0/giphy.gif" width="230" />
+I am passionate about pursuing new grad or internship roles in software engineering, especially those that drive positive change and make an impact on a broad audience. 
 
-- I am currently chasing my dreams of combining my love for tech and entertainment industry. I would love to work in a job where I can make an impact on a large group of individuals. 
-  
-## 🎞️ Who am I outside of tech...
-- I am currently trying my hand gouache painting - so, if you have any tips, please let me know! My other hobbies include watching films, cafe hopping, practicing the guitar, journaling, and occassionally bouldering.
-  
-- My favorite film of all time has to be "La La Land". 🎵
+## 💭 Outside of Tech... 
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJvaWVwazc0Z3c1NnB3cDFzd3NjZDc1NmVzbXE1OGh3MmZocGg5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44QvFam1JXtKYNna/giphy.gif" width="230" />
+
+I’m a huge movie fanatic! Ask me what my favorite film is, and I’ll tell you all about it. :) I am also trying my hand at gouache painting. So, if you have any tips with gouache painting, please feel free to tell me some!
+
+Other hobbies, however, include cafe hopping, finding the best matcha recipe, journaling, and occasionally bouldering. 
   
 ## 📈 My GitHub stats...
 ![Paulian's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=paulian7&theme=gruvbox)
 
-  
 ## 🏗️ Tools & technologies I'm currently working with...
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,nextjs,react,tailwind,ts)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=express,mongodb,mysql)](https://skillicons.dev)<br>
@@ -27,3 +25,6 @@ My name is Paulian (Paul-Lee-Anne), and I am a first generation Computer Science
 ![ProfileViews](https://komarev.com/ghpvc/?username=paulian7&style=for-the-badge)
 
 🫶 Looking forward to connecting / collaborating!
+
+
+
