@@ -12,9 +12,6 @@ To learn more about me, please check out my LinkedIn profile!
 I’m a huge movie fanatic! Ask me what my favorite film is, and I’ll tell you all about it. :) I am also trying my hand at gouache painting. So, if you have any tips with gouache painting, please feel free to tell me some!
 
 Other hobbies, however, include cafe hopping, finding the best matcha recipe, journaling, and occasionally bouldering. 
-  
-## 📈 My GitHub stats...
-![Paulian's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=paulian7&theme=gruvbox)
 
 ## 🏗️ Tools & technologies I'm currently working with...
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,nextjs,react,tailwind,ts)](https://skillicons.dev)<br>
