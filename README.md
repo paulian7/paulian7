@@ -9,9 +9,9 @@ To learn more about me, please check out my LinkedIn profile!
 ## 💭 Outside of Tech... 
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJvaWVwazc0Z3c1NnB3cDFzd3NjZDc1NmVzbXE1OGh3MmZocGg5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44QvFam1JXtKYNna/giphy.gif" width="230" />
 
-I’m a huge movie fanatic! Ask me what my favorite film is, and I’ll tell you all about it. :) I am also trying my hand at gouache painting. So, if you have any tips with gouache painting, please feel free to tell me some!
+I’m a huge movie fanatic! Ask me what my favorite film is, and I’ll tell you all about it. :) I also love to run as well. Hope to run day run the New York City Marathon one day! :) 
 
-Other hobbies, however, include cafe hopping, finding the best matcha recipe, journaling, and occasionally bouldering. 
+Other hobbies, however, include cafe hopping, finding the best matcha recipe, and reading. 
 
 ## 🏗️ Tools & technologies I'm currently working with...
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,nextjs,react,tailwind,ts)](https://skillicons.dev)<br>
