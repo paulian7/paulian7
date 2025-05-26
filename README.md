@@ -4,7 +4,7 @@ My name is Paulian (Paul-Lee-Anne), and I recently earned my Bachelor's Degree i
 
 I am passionate about pursuing new grad or internship roles in software engineering, especially those that drive positive change and make an impact on a broad audience. 
 
-To learn more about me, please check out my LinkedIn profile - but as you're here, welcome to my GitHub page where you can check up what I've been up to! 
+To learn more about me, please check out my LinkedIn profile - but as you're here, welcome to my GitHub page where you can check what I've been up to! 
 
 ## 💭 Outside of Tech... 
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJvaWVwazc0Z3c1NnB3cDFzd3NjZDc1NmVzbXE1OGh3MmZocGg5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44QvFam1JXtKYNna/giphy.gif" width="230" />
