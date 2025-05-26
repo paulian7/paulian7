@@ -13,12 +13,6 @@ I’m a huge movie fanatic! Ask me what my favorite film is, and I’ll tell you
 
 Other hobbies, however, include cafe hopping, finding the best matcha recipe, and reading. 
 
-## 🏗️ Tools & technologies I'm currently working with...
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,html,java,js,nextjs,react,tailwind,ts)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=arduino&perline=4)](https://skillicons.dev)<br>
-
 ## 👩🏻‍💻 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulianle/)
 ![ProfileViews](https://komarev.com/ghpvc/?username=paulian7&style=for-the-badge)
