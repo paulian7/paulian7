@@ -11,7 +11,7 @@ Feel free to peruse my profile! You'll find projects I've been working on - from
 I’m a huge movie fanatic! *La La Land* has to be one of my favorite — it’s a beautiful ode to movies, filled with nods to countless classics.
 <br clear="right"/>
 
-## 👩🏻‍💻 Connect with me!
+## 🍿 Connect with me!
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paulianle.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulianle/)
 
